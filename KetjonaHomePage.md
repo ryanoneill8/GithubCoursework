@@ -1,5 +1,10 @@
-# Website design
+# Petting Zoo Website
 
-dsfsdfs sfsd sdf s fs
+*This webiste is about a family farm, that has opened their doors to the public offering their sevices*
 
-<img src="file.png" width="80%">
+Some of the services that will be advertised in the website are:
+
+- Birthday parties
+- Pettings Zoo for Kids
+- Sell products that the farm produces
+
